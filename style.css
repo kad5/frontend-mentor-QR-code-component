@@ -20,6 +20,8 @@ body {
   gap: 2em;
   padding: 25px;
   background-color: var(--Slate-300);
+  height: 100dvh;
+  height: 100vh;
 }
 
 .container {
